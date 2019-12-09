@@ -1,17 +1,28 @@
 .header {
     display: inline-flex;
+    width: 100%;
+    height: 40px;
+    margin: 0;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    background-color: blue;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .topnav {
-    /* justify-content: center; */
+    justify-content: center;
     display: block;
     margin: auto;
     padding-inline-start: 0px;
     justify-content: space-between;
-
+    color: white;
 }
 
 .navitem {
@@ -26,6 +37,7 @@
 
 body {
     font-family: 'Heebo';font-size: 18px;
+    margin: 0;
 }
 
 .wrapper {
