@@ -1,0 +1,65 @@
+body {
+  max-width: 8000px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  padding: 0px;
+  margin: auto;
+}
+
+td.type1
+{
+background-color: lightgreen;
+}
+td.type2
+{
+background-color: teal;
+color:white;
+}
+td.type3
+{
+background-color:skyblue;
+}
+td.type4
+{
+background-color:red;
+color:white;
+}
+td.type5
+{
+background-color:orange;
+}
+td.type6
+{
+background-color:purple;
+color:white;
+}
+td.type7
+{
+background-color:blue;
+color:white;
+}
+td.type8
+{
+background-color:rgb(255,192,203);
+color:white;
+}
+td.type9
+{
+background-color: aqua;
+}
+td.type10
+{
+background-color: #FF7F50;
+}
+td.top-gap
+{
+border-bottom-style:none;
+border-top-style:none;
+}
+td.bottom-gap
+{
+border-bottom-style:none;
+border-top-style:none;
+border-left-style:none;
+}
