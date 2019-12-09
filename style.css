@@ -1,29 +1,52 @@
+.header {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topnav {
+    /* justify-content: center; */
+    display: block;
+    margin: auto;
+    padding-inline-start: 0px;
+    justify-content: space-between;
+
+}
+
+.navitem {
+    justify-content: center;
+    display: inline;
+    margin-right: 5px;
+    margin-right: 5px;
+    justify-content: space-between;
+
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+body {
+    font-family: 'Heebo';font-size: 18px;
+}
 
 .wrapper {
     margin-right: 10vw;
     margin-left: 10vw;
     margin-bottom: 30px;
 }
+
+p {
+    /* display: block; */
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.intro-box {
+    margin-top: 5vm;
+}
+
+.resources-body {
+    margin-top: 5vw;
+}
+
