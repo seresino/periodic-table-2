@@ -1,0 +1,18 @@
+@font-face {
+  font-family: breakingBadFont;
+  src: url(fonts/breakingBad.ttf);
+}
+h1 {
+	font-size:90px;
+	font-family: breakingBadFont;
+	color: white;
+	text-align:center;
+}
+body {
+  background-image: url('breakingBad.jpg');
+  background-size: cover;
+  font-family: 'Helvetica'
+}
+h2 {
+  color: white;
+}
