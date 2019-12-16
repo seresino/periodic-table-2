@@ -1,3 +1,5 @@
+
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -82,13 +84,16 @@ p {
     margin-top: 0px;
     margin-bottom: 5px;
     margin-inline-start: 0px;
+color: white;
     margin-inline-end: 0px;
 }
 
 .intro-box {
     margin-top: 5vm;
+    color: white;
 }
 
 .resources-body {
     margin-top: 5vw;
+color: white
 }
